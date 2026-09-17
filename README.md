@@ -2,9 +2,9 @@
 
 Public project website for **Strengthening U.S. Oyster Broodstock Systems: Building Healthier, More Resilient Seed for American Growers** (USDA NIFA AFRI Sustainable Agricultural Systems, award 2026-68012-47021).
 
-Built with [Quarto](https://quarto.org) and published to GitHub Pages.
+Built with [Quarto](https://quarto.org) and published to GitHub Pages.d
 
-## Site map
+## Site map 
 
 | File | Page |
 |---|---|
