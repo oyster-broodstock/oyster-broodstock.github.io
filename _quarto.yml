@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "U.S. Oyster Broodstock Systems"
+  description: "A USDA NIFA AFRI Sustainable Agricultural Systems Coordinated Agricultural Project building healthier, more resilient oyster seed for American growers."
+  site-url: https://oyster-broodstock.github.io
+  repo-url: https://github.com/oyster-broodstock/oyster-broodstock.github.io
+  # Uncomment once the image files are added to assets/
+  # favicon: assets/favicon.png
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    background: primary
+    # logo: assets/logo.png
+    title: "Oyster Broodstock Systems"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: objectives.qmd
+        text: Objectives
+      - href: team.qmd
+        text: Team
+      - href: partners.qmd
+        text: Partners
+      - href: outputs.qmd
+        text: Outputs
+      - href: timeline.qmd
+        text: Timeline
+      - href: news.qmd
+        text: News
+    right:
+      - href: contact.qmd
+        text: Contact
+      - icon: github
+        href: https://github.com/oyster-broodstock
+        aria-label: GitHub
+
+  page-footer:
+    background: light
+    left: |
+      This work is supported by the Agriculture and Food Research Initiative
+      Sustainable Agricultural Systems program, award no. 2026-68012-47021,
+      from the U.S. Department of Agriculture, National Institute of Food and Agriculture.
+    right: |
+      [GitHub](https://github.com/oyster-broodstock) · [Roberts Lab](https://robertslab.info)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 250px

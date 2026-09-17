@@ -1,0 +1,75 @@
+---
+title: "Team"
+subtitle: "Who does what across the project"
+---
+
+The project is led by a Project Director and five Co-Project Directors, with co-investigators leading the economics, mechanistic, and phenotyping components. The Executive Committee is chaired by the PD and meets quarterly.
+
+<!-- To add a photo for a person, drop a square image in assets/people/ and add
+     an ![](assets/people/lastname.jpg) line under their entry. -->
+
+## Project Director
+
+### Steven Roberts
+**University of Washington · Project Director**
+
+Overall scientific, fiscal, and administrative lead. Chairs the Executive Committee and serves as primary NIFA liaison. Leads machine-learning modeling and cross-site data integration, the PRISM Portal, and Pacific-coast co-production partnerships.
+
+## Co-Project Directors
+
+### Jessica Small
+**Virginia Institute of Marine Science / ABC · Co-PD**
+
+Directs Atlantic-coast hatchery operations and leads Objective 1 G×E×P experiments in *C. virginica*. Integrates project findings into VIMS coursework and workforce training.
+
+### William Walton
+**Virginia Institute of Marine Science · Co-PD**
+
+Leads extension across the project. Runs Objective 1 field trials and Objective 2 activities on the Atlantic, and coordinates Virginia and North Carolina grow-out partners and mid-Atlantic producer engagement.
+
+### Chris Hollenbeck
+**Texas A&M / CMAQ · Co-PD**
+
+Directs Gulf-coast research. Leads Objective 1 experiments on *C. virginica* low-salinity tolerance and resilience, Gulf field deployments, and extension in coordination with Texas Sea Grant.
+
+### Louis Plough
+**USDA ARS / POGS · Co-PD**
+
+Directs Pacific-coast research. Leads Objective 1 experiments on *C. gigas* POMS/OsHV-1 resistance using POGS families, Oregon and Washington field deployments, and Oregon Sea Grant extension.
+
+### Mackenzie Gavery
+**NOAA Northwest Fisheries Science Center · Co-PD**
+
+Co-leads the predictive-phenotyping cross-cutting team and physiological assay development. Manages the Pacific Hybreed co-production partnership at NOAA Manchester.
+
+## Co-Investigators
+
+### Chris Anderson
+**University of Washington · Co-I**
+
+Leads the Economics and Decision Tools team: the portfolio-optimization dashboard and regional cost–benefit analyses under Objective 3, plus the aquaculture-economics curriculum.
+
+### Hamish Small
+**Virginia Institute of Marine Science · Co-I**
+
+Leads work on the mechanisms of environmental memory, including the role of DNA methylation in priming and the duration of signaling, embedded in ABC breeding-program sampling.
+
+### Joseph Matt and David Portnoy
+**Texas A&M · Co-Is**
+
+Lead Gulf Objective 1 execution: priming treatments, acute stress challenges, field performance monitoring, and the high-throughput genotyping behind them.
+
+### Samuel Gurr
+**Oregon State University / USDA ARS · Co-I**
+
+Leads resazurin metabolic profiling and thermal performance curves for Objective 2, and serves as supervisory lead for four hatchery-based research assistants.
+
+## Trainees
+
+The project supports nine graduate students and postdoctoral researchers with cross-institutional rotations, and engages more than 20 undergraduates over the award period.
+
+::: {.callout-note}
+## We are recruiting
+
+Graduate and postdoctoral positions are opening across partner institutions during Year 1. [Get in touch](contact.qmd) if you are interested.
+:::

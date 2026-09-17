@@ -1,0 +1,44 @@
+---
+title: "Objectives"
+subtitle: "Four objectives, executed on a shared protocol across three coasts"
+---
+
+The project is organized around four objectives. The first two generate the evidence, the third turns it into something a hatchery manager can act on, and the fourth builds the people who will carry it forward.
+
+## Objective 1 — G×E×P interactions
+
+**Quantify how environmental priming interacts with genetic background across species, breeding lines, and environments.**
+
+The core design is a genotype × environment × priming factorial run in parallel on all three coasts, with at least 10 families and at least 2 contrasting grow-out sites per region, replicated over two cohorts. Running the same design on *Crassostrea virginica* on the Atlantic and Gulf and on *Crassostrea gigas* on the Pacific is what lets us separate effects that are general to oyster broodstock from those that are specific to a species, a region, or a pathogen.
+
+Regional focus differs by coast. The Atlantic work at VIMS/ABC centers on *C. virginica* under Dermo and MSX pressure. The Gulf work at Texas A&M/CMAQ centers on low-salinity tolerance and resilience in *C. virginica*. The Pacific work through USDA ARS/POGS centers on POMS/OsHV-1 resistance in *C. gigas* using POGS families.
+
+## Objective 2 — Predictive phenotyping
+
+**Validate early-life indicators that forecast juvenile survival and field performance.**
+
+Resazurin-based metabolic profiling and thermal performance curves are measured on juveniles in the hatchery. Those measurements are then tested against what actually happens to the same families in the field. The target is machine-learning models that integrate metabolic, molecular, and environmental data and cross-validate at R² ≥ 0.3 against field outcomes.
+
+Alongside the predictive work, we are asking how priming actually persists: the role of DNA methylation in environmental memory, and how long the signal lasts. That mechanistic work is embedded directly in ABC breeding-program sampling rather than run as a separate study, so it stays connected to animals that are in a real breeding pipeline.
+
+## Objective 3 — Extension and decision tools
+
+**Co-produce hatchery-ready priming protocols with commercial partners and deliver the tools to choose among them.**
+
+Protocols are developed with commercial hatcheries rather than handed to them. Each coast has committed grower and hatchery partners running trials alongside the research sites.
+
+The decision-support side treats a grower's planting choices as a portfolio problem. The risk-assessment and portfolio-optimization dashboard, grounded in modern portfolio theory, lets a grower or hatchery weigh combinations of family, priming treatment, and site against their own risk tolerance rather than against an average. Regional cost–benefit analyses and implementation manuals accompany it.
+
+## Objective 4 — Education and workforce
+
+**Train the people who will run these systems.**
+
+Nine graduate students and postdocs will train through cross-institutional rotations, so that people working on Pacific *C. gigas* spend time in Atlantic and Gulf programs and vice versa. More than 20 undergraduates will participate.
+
+Three web-delivered products come out of this objective. The **PRISM Portal** is the project's shared training and data-access environment. The **ADAPT micro-credential** is a formal credential in applied broodstock and hatchery practice, piloted in Year 4. An **annual short course** and **K–12 modules delivered through Sea Grant** extend the reach beyond the partner institutions.
+
+## Cross-cutting commitments
+
+All collaborators hold quarterly all-investigator teleconferences, semi-annual Stakeholder Advisory Board meetings, and an annual in-person meeting at a rotating partner site, in addition to annual NIFA progress reports. Data schemas and code are shared from Year 1, with open data and code repositories released in Year 5.
+
+[See the year-by-year plan →](timeline.qmd)

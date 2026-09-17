@@ -1,0 +1,50 @@
+---
+title: "Timeline"
+subtitle: "Year-by-year milestones, September 2026 through August 2031"
+---
+
+The project runs two full breeding-to-field cycles over five years. Milestones below are as committed in the approved project plan. This page is updated as milestones are met.
+
+## Year 1 · 2026–2027
+
+- Governance established; trainees recruited
+- Stakeholder Advisory Board formalized; commercial MOUs signed
+- Broodstock conditioning and priming begin at all three coastal sites
+- Baseline metabolic phenotyping complete
+- Shared data schemas and GitHub organization established; PRISM Portal wireframes
+
+## Year 2 · 2027–2028
+
+- Cycle 1 spawning: pedigreed families from primed and control parents
+- Field deployments begin at contrasting sites on all three coasts
+- First regional workshops
+- Prototype dashboard delivered; Stakeholder Advisory Board review
+- Trainee rotations start; formative evaluation
+
+## Year 3 · 2028–2029
+
+- 12-month Cycle 1 field performance data complete
+- Cycle 2 launched with refined protocols
+- Machine-learning predictive models trained
+- Beta dashboard and PRISM Portal released
+- Sustainability planning begins
+
+## Year 4 · 2029–2030
+
+- Models and priming protocols validated on independent Cycle 2 data
+- Dashboard and PRISM Portal publicly released
+- ADAPT micro-credential piloted
+- At least 3 hatcheries priming commercially
+- Second formative evaluation
+
+## Year 5 · 2030–2031
+
+- National capstone workshop
+- Final publications, target of at least 8
+- Implementation manuals and cost–benefit analyses delivered
+- Open data and code repositories released
+- Summative external evaluation and final report
+
+## Standing commitments
+
+Quarterly all-investigator teleconferences, semi-annual Stakeholder Advisory Board meetings, an annual in-person meeting at a rotating partner site, and annual NIFA progress reports.

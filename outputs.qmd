@@ -1,0 +1,64 @@
+---
+title: "Outputs"
+subtitle: "Publications, data, code, and extension products"
+---
+
+Everything the project produces is logged here as it happens. This page doubles as the working record for annual NIFA progress reporting, so entries should be added when a product appears rather than at reporting time.
+
+<!--
+MAINTAINER NOTE
+Add each output under the right heading, newest first, using this shape:
+
+- **Title.** Authors (Year). *Venue*. [DOI](https://doi.org/...)
+
+Keep DOIs and accession numbers on every entry. If a product has no
+persistent identifier yet, add it anyway with a date and mark it (preprint),
+(in review), or (in prep) so the annual report does not miss it.
+-->
+
+## Peer-reviewed publications
+
+*No publications yet. Target is at least 8 by the close of the award.*
+
+## Preprints
+
+*None yet.*
+
+## Data
+
+Datasets are released with persistent identifiers as they are finalized. Shared data schemas are established in Year 1 and the full open data release comes in Year 5.
+
+*None yet.*
+
+## Code and software
+
+Project code is developed in the open. Repositories are listed here as they are created.
+
+| Product | Description | Status |
+|---|---|---|
+| PRISM Portal | Shared training and data-access environment | Wireframes, Year 1 |
+| Decision dashboard | Risk assessment and portfolio optimization for growers and hatcheries | Prototype, Year 2 |
+
+## Extension products
+
+Priming protocol manuals, regional cost–benefit analyses, factsheets, and workshop materials are posted here as they are released.
+
+*None yet.*
+
+## Education and workforce products
+
+| Product | Description | Status |
+|---|---|---|
+| ADAPT micro-credential | Applied broodstock and hatchery practice credential | Pilot in Year 4 |
+| Annual short course | Cross-institutional intensive | Planned |
+| K–12 modules | Delivered through Sea Grant | Planned |
+
+## Presentations
+
+*None logged yet.*
+
+## Trainee outcomes
+
+Graduate degrees, postdoctoral placements, and undergraduate participation are tracked here for reporting.
+
+*None yet.*

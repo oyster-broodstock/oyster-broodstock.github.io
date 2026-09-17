@@ -1,0 +1,105 @@
+/*-- scss:defaults --*/
+
+// Palette: coastal, high contrast, print-safe
+$primary:       #1d4e5f !default;  // deep tidal blue-green
+$secondary:     #6b8f71 !default;  // eelgrass
+$accent:        #c96f3f !default;  // shell / oyster rim
+$body-color:    #1f2326 !default;
+$body-bg:       #ffffff !default;
+$link-color:    $primary !default;
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !default;
+$headings-font-weight: 600 !default;
+
+/*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 3px solid $accent;
+}
+
+// Hero block on the landing page
+.hero {
+  background: linear-gradient(135deg, #1d4e5f 0%, #2f6f78 100%);
+  color: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  color: #fff;
+  font-size: 1.9rem;
+  line-height: 1.25;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.hero p {
+  font-size: 1.05rem;
+  margin-bottom: 0;
+  opacity: 0.95;
+}
+
+.hero .award-line {
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+
+// Fact strip under the hero
+.facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 0 0 2rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid #e3e6e8;
+  border-bottom: 1px solid #e3e6e8;
+}
+
+.facts div {
+  flex: 1 1 140px;
+}
+
+.facts .label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6c757d;
+}
+
+.facts .value {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: $primary;
+}
+
+// Objective cards
+.obj-card {
+  border-left: 4px solid $secondary;
+  padding: 0.25rem 0 0.25rem 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.obj-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+// Team and partner tables
+table {
+  font-size: 0.95rem;
+}
+
+// Callout tuning
+div.callout-note {
+  border-left-color: $primary;
+}
+
+@media (max-width: 575px) {
+  .hero { padding: 1.5rem 1.25rem; }
+  .hero h1 { font-size: 1.45rem; }
+}

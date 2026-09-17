@@ -1,0 +1,48 @@
+---
+title: "Partners"
+subtitle: "Research institutions, commercial partners, and the Stakeholder Advisory Board"
+---
+
+This is a coordinated project by design. Research institutions, commercial hatcheries and growers, and Sea Grant programs on all three coasts are part of the work rather than recipients of it.
+
+## Research institutions
+
+| Institution | Role |
+|---|---|
+| University of Washington | Lead institution; modeling, data integration, PRISM Portal, economics and decision tools |
+| Virginia Institute of Marine Science (VIMS) / ABC | Atlantic hatchery operations, extension lead, mechanisms of environmental memory |
+| Texas A&M / CMAQ | Gulf-coast research, low-salinity resilience, high-throughput genotyping |
+| USDA Agricultural Research Service / POGS | Pacific-coast research, POMS/OsHV-1 resistance, POGS breeding families |
+| NOAA Northwest Fisheries Science Center | Predictive phenotyping, physiological assay development, Manchester facility |
+| Oregon State University | Metabolic profiling, thermal performance curves, hatchery-based research staff |
+| Sea Grant (WA, TX, OR, and mid-Atlantic programs) | Extension delivery, K–12 modules, producer engagement |
+
+## Committed commercial partners
+
+Hatcheries and growers on all three coasts have committed to hosting trials, providing grow-out sites, and co-producing protocols.
+
+| Partner | Region |
+|---|---|
+| Lambert Shellfish | Virginia |
+| N Sea Oyster Co | North Carolina |
+| Three Sisters Oyster Co | Texas |
+| Palacios Marine Aquaculture Research | Texas |
+| Pearl Point Oyster Farm | Oregon |
+| Pacific Seafood | Washington |
+| Pacific Hybreed | Pacific Northwest |
+| Taylor Shellfish | Washington |
+| Westcott Bay | Washington |
+
+## Stakeholder Advisory Board
+
+A 12-member Stakeholder Advisory Board spanning the Atlantic, Gulf, and Pacific coasts is committed and has been seated. The SAB meets semi-annually and reviews project direction, protocol relevance, and extension products.
+
+## External evaluation
+
+The Pacific Shellfish Institute (Bobbi Hudson) serves as external evaluator, conducting formative evaluations in Years 2 and 4 and a summative external evaluation in Year 5.
+
+::: {.callout-note}
+## Interested in hosting a trial?
+
+We are interested in hearing from additional hatcheries and growers on any coast. [Get in touch](contact.qmd).
+:::

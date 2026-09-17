@@ -1,0 +1,70 @@
+---
+title: "Strengthening U.S. Oyster Broodstock Systems"
+subtitle: "Building Healthier, More Resilient Seed for American Growers"
+toc: false
+---
+
+::: {.hero}
+<p class="award-line">USDA NIFA · AFRI Sustainable Agricultural Systems (A9201) · Coordinated Agricultural Project</p>
+
+<p>U.S. oyster growers face converging losses from disease and environmental variability that exceed the adaptive capacity of current broodstock. This project unites the nation's three leading oyster breeding programs into one national network running standardized protocols across two full breeding-to-field cycles.</p>
+:::
+
+::: {.facts}
+<div><span class="label">Award</span><span class="value">2026-68012-47021</span></div>
+<div><span class="label">Period</span><span class="value">2026&ndash;2031</span></div>
+<div><span class="label">Institutions</span><span class="value">7 partners</span></div>
+<div><span class="label">Coasts</span><span class="value">Atlantic · Gulf · Pacific</span></div>
+:::
+
+## The problem
+
+Oyster growers are losing crops to Dermo and MSX on the Atlantic and Gulf, POMS/OsHV-1 on the Pacific, and *Vibrio*-associated mortalities nationwide. Losses are driven by the interaction of pathogen pressure with environmental variability, and that combination is outpacing what current broodstock can absorb.
+
+Broodstock selection still relies on retrospective field performance. Hatchery conditioning applies uniform protocols regardless of an animal's genetic background or the conditions it will meet at grow-out. The result is seed that is not matched to the water it is planted in.
+
+## What we are doing
+
+This project combines two advances that have so far been developed in isolation.
+
+**High-throughput resazurin-based metabolic phenotyping** forecasts performance weeks-to-months before deployment, rather than years after, giving breeders and hatcheries a usable signal within a single season.
+
+**Environmental priming**, a controlled immune, thermal, and salinity conditioning, raises resilience within and across generations. Priming is applied in the hatchery and the benefit carries forward into the field.
+
+Neither is useful alone. Priming without predictive phenotyping cannot be targeted, and phenotyping without priming has nothing to act on. Bringing them together across VIMS/ABC, Texas A&M/CMAQ, and USDA ARS/POGS, on a shared protocol and a shared data schema, is what makes the result a national broodstock system rather than three regional experiments.
+
+## The four objectives
+
+::: {.obj-card}
+### 1. G×E×P interactions
+Quantify how priming interacts with genetic background across species, breeding lines, and environments. At least 10 families and 2 contrasting grow-out sites per region, replicated over two cohorts.
+:::
+
+::: {.obj-card}
+### 2. Predictive phenotyping
+Validate early-life indicators that forecast juvenile survival and field performance. Train and cross-validate machine-learning models integrating metabolic, molecular, and environmental data, targeting R² ≥ 0.3.
+:::
+
+::: {.obj-card}
+### 3. Extension and decision tools
+Co-produce hatchery-ready priming protocols with commercial partners. Build a risk-assessment and portfolio-optimization dashboard grounded in modern portfolio theory. Deliver manuals and regional cost–benefit analyses.
+:::
+
+::: {.obj-card}
+### 4. Education and workforce
+Train 9 graduate students and postdocs through cross-institutional rotations, reach 20+ undergraduates, and deliver the PRISM Portal, the ADAPT micro-credential, an annual short course, and K–12 modules through Sea Grant.
+:::
+
+[Read the objectives in detail →](objectives.qmd)
+
+## Who is involved
+
+The project spans the University of Washington, the Virginia Institute of Marine Science, Texas A&M, USDA ARS, NOAA Northwest Fisheries Science Center, and Oregon State University, with commercial hatcheries, growers, and Sea Grant programs on all three coasts. A 12-member Stakeholder Advisory Board spanning the Atlantic, Gulf, and Pacific is already committed.
+
+[Meet the team →](team.qmd) · [See our partners →](partners.qmd)
+
+::: {.callout-note}
+## Working with us
+
+We are recruiting graduate students and postdoctoral researchers across all partner institutions, and we are interested in hearing from hatcheries and growers who want to trial priming protocols. [Get in touch](contact.qmd).
+:::
