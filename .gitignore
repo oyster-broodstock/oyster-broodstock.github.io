@@ -1,0 +1,7 @@
+# Quarto
+_site/
+.quarto/
+/.luarc.json
+
+# macOS
+.DS_Store
