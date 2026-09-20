@@ -5,6 +5,8 @@ toc: false
 ---
 
 ::: {.hero}
+![](assets/logo-mark-light.svg){.hero-mark fig-alt="U.S. Oyster Broodstock Systems logo"}
+
 <p class="award-line">USDA NIFA · AFRI Sustainable Agricultural Systems (A9201) · Coordinated Agricultural Project</p>
 
 <p>U.S. oyster growers face converging losses from disease and environmental variability that exceed the adaptive capacity of current broodstock. This project unites the nation's three leading oyster breeding programs into one national network running standardized protocols across two full breeding-to-field cycles.</p>

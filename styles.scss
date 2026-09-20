@@ -103,3 +103,27 @@ div.callout-note {
   .hero { padding: 1.5rem 1.25rem; }
   .hero h1 { font-size: 1.45rem; }
 }
+
+// Logo mark in the landing hero
+.hero {
+  position: relative;
+}
+
+.hero .hero-mark {
+  width: 84px;
+  height: auto;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
+
+@media (max-width: 575px) {
+  .hero .hero-mark { width: 56px; margin-left: 1rem; }
+}
+
+// Navbar mark sizing
+.navbar-brand img.navbar-logo {
+  height: 34px;
+  width: 34px;
+  max-height: 34px;
+  margin-right: 0.6rem;
+}

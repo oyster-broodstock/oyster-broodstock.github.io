@@ -1,3 +1,5 @@
+<img src="assets/logo-mark.svg" alt="" width="72" align="left" hspace="12">
+
 # oyster-broodstock.github.io
 
 Public project website for **Strengthening U.S. Oyster Broodstock Systems: Building Healthier, More Resilient Seed for American Growers** (USDA NIFA AFRI Sustainable Agricultural Systems, award 2026-68012-47021).
@@ -10,7 +12,7 @@ Built with [Quarto](https://quarto.org) and published to GitHub Pages.d
 |---|---|
 | `index.qmd` | Landing page |
 | `objectives.qmd` | The four objectives in detail |
-| `team.qmd` | PD, Co-PDs, Co-Is, trainees |
+| `team.qmd` | Project team and trainees |
 | `partners.qmd` | Institutions, commercial partners, SAB, evaluator |
 | `outputs.qmd` | Publications, data, code, extension products (**the reporting log**) |
 | `timeline.qmd` | Year-by-year milestones |
@@ -23,7 +25,21 @@ This repo is the **organization root site**. Because it is named `<org>.github.i
 
 1. **Create the organization.** Create the GitHub org `oyster-broodstock` (free tier is sufficient). Add at least three owners spanning at least two institutions, so the org survives any one person's departure, and record the succession plan in the project's sustainability documentation.
 2. **Create this repo as `oyster-broodstock.github.io`** inside that org and push this scaffold to `main`.
-3. **Add the images.** Drop `logo.png` and `favicon.png` into `assets/`, then uncomment the `logo:` and `favicon:` lines in `_quarto.yml`. The site renders without them; the navbar just shows text.
+3. **Images are in place.** The project logo lives in `assets/` and is already wired into `_quarto.yml`:
+
+   | File | Use |
+   |---|---|
+   | `logo-mark.svg` | Primary mark, dark on light (README, documents, slides) |
+   | `logo-mark-light.svg` | Reversed mark for dark backgrounds (navbar, hero) |
+   | `logo-lockup.svg` | Horizontal mark + wordmark, for posters and presentations |
+   | `favicon.svg` / `favicon.png` | Browser tab icon |
+   | `apple-touch-icon.png` | 180&nbsp;px home-screen icon |
+
+   The mark is an oyster shell seen from the hinge, its flutes fanning out as growth
+   lines, with three linked nodes across the rim for the three regional breeding
+   programs (Atlantic, Gulf, Pacific). Colors match `styles.scss`: `#1d4e5f` (primary)
+   and `#c96f3f` (accent). All source files are plain SVG, so they can be re-colored
+   or re-scaled in any text editor.
 4. **Turn on Pages.** Settings → Pages → Source → GitHub Actions. The included workflow does the rest.
 5. **Custom domain (optional).** Add a `CNAME` file at the repo root containing your domain, point a DNS CNAME at `oyster-broodstock.github.io`, and set the domain under Settings → Pages. Less necessary now that the org root URL is already short.
 

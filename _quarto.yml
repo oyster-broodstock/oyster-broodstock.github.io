@@ -1,20 +1,22 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/
 
 website:
   title: "U.S. Oyster Broodstock Systems"
   description: "A USDA NIFA AFRI Sustainable Agricultural Systems Coordinated Agricultural Project building healthier, more resilient oyster seed for American growers."
   site-url: https://oyster-broodstock.github.io
   repo-url: https://github.com/oyster-broodstock/oyster-broodstock.github.io
-  # Uncomment once the image files are added to assets/
-  # favicon: assets/favicon.png
+  favicon: assets/favicon.png
   open-graph: true
   twitter-card: true
 
   navbar:
     background: primary
-    # logo: assets/logo.png
+    logo: assets/logo-mark-light.svg
+    logo-alt: "U.S. Oyster Broodstock Systems"
     title: "Oyster Broodstock Systems"
     left:
       - href: index.qmd
@@ -52,6 +54,9 @@ format:
     theme:
       - cosmo
       - styles.scss
+    include-in-header:
+      - text: |
+          <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
     toc: true
     toc-depth: 3
     anchor-sections: true
