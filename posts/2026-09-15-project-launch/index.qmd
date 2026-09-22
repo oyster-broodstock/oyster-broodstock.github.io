@@ -1,11 +1,13 @@
 ---
 title: "Project launch"
 description: "A five-year USDA NIFA AFRI Sustainable Agricultural Systems project uniting the nation's three leading oyster breeding programs."
-date: "2026-09-01"
+date: "2026-09-15"
 categories: [announcement]
+aliases:
+  - /posts/2026-09-01-project-launch/index.html
 ---
 
-The project period for *Strengthening U.S. Oyster Broodstock Systems* began on September 1, 2026, under USDA NIFA award 2026-68012-47021 through the AFRI Sustainable Agricultural Systems program.
+The project period for *Strengthening U.S. Oyster Broodstock Systems* began on September 15, 2026, under USDA NIFA award 2026-68012-47021 through the AFRI Sustainable Agricultural Systems program.
 
 Over the next five years the project will unite the Virginia Institute of Marine Science / ABC, Texas A&M / CMAQ, and USDA ARS / POGS breeding programs into a single national network running standardized priming and phenotyping protocols across two full breeding-to-field cycles, on the Atlantic, Gulf, and Pacific coasts.
 
