@@ -34,6 +34,8 @@ website:
       - href: news.qmd
         text: News
     right:
+      - href: internal.qmd
+        text: Internal
       - href: contact.qmd
         text: Contact
       - icon: github

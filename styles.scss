@@ -127,3 +127,35 @@ div.callout-note {
   max-height: 34px;
   margin-right: 0.6rem;
 }
+
+// Internal page resource cards
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.resource-card {
+  border: 1px solid #e3e6e8;
+  border-top: 3px solid $accent;
+  border-radius: 4px;
+  padding: 1rem 1.1rem;
+}
+
+.resource-card h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+
+.resource-card p:last-child {
+  margin-bottom: 0;
+  font-size: 0.92rem;
+}
+
+.calendar-embed {
+  border: 1px solid #e3e6e8;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
