@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img"
+     aria-label="U.S. Oyster Broodstock Systems">
+  <title>U.S. Oyster Broodstock Systems</title>
+  <g>
+    <path d="M27.5 57 C 18 54, 5 41, 4 20 Q 32 5, 60 20 C 59 41, 46 54, 36.5 57 Z" fill="#ffffff"/>
+    <path d="M27.5 56.5 Q 32 61.5, 36.5 56.5 Z" fill="#ffffff"/>
+    <g stroke="#1d4e5f" stroke-width="1.5" stroke-linecap="round" opacity="0.35">
+      <path d="M32 54 L 15.5 26"/>
+      <path d="M32 54 L 23.5 21.5"/>
+      <path d="M32 54 L 32 20.5"/>
+      <path d="M32 54 L 40.5 21.5"/>
+      <path d="M32 54 L 48.5 26"/>
+    </g>
+    <path d="M15 25 Q 32 17.5, 49 25" fill="none" stroke="#e8a06f" stroke-width="2.3" stroke-linecap="round"/>
+    <g fill="#e8a06f">
+      <circle cx="15" cy="25" r="3.8"/>
+      <circle cx="32" cy="19.8" r="3.8"/>
+      <circle cx="49" cy="25" r="3.8"/>
+    </g>
+  </g>
+  <g font-family="Source Sans Pro, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="76" y="28" font-size="18" font-weight="600" letter-spacing="0.2">U.S. Oyster Broodstock</text>
+    <text x="76" y="46" font-size="18" font-weight="600" letter-spacing="0.2">Systems</text>
+  </g>
+</svg>
