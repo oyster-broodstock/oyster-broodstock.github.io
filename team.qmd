@@ -30,6 +30,11 @@ Leads resazurin metabolic profiling and thermal performance curves for Objective
 
 Directs Gulf-coast research. Leads Objective 1 experiments on *C. virginica* low-salinity tolerance and resilience, Gulf field deployments, and extension in coordination with Texas Sea Grant.
 
+### Ariana Huffmyer
+**University of Washington**
+
+Supports the predictive-phenotyping cross-cutting team, contributing physiological and molecular assay development and analysis across Objective 2 sites.
+
 ### Joseph Matt
 **Texas A&M**
 
@@ -68,6 +73,11 @@ Leads extension across the project. Runs Objective 1 field trials and Objective 
 ## Trainees
 
 The project supports nine graduate students and postdoctoral researchers with cross-institutional rotations, and engages more than 20 undergraduates over the award period.
+
+### Kate Laboda
+**University of Washington**
+
+Graduate student.
 
 ::: {.callout-note}
 ## We are recruiting
