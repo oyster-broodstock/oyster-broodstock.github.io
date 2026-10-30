@@ -3,11 +3,12 @@ project:
   output-dir: _site
   resources:
     - assets/
+    - CNAME
 
 website:
   title: "U.S. Oyster Broodstock Systems"
   description: "A USDA NIFA AFRI Sustainable Agricultural Systems Coordinated Agricultural Project building healthier, more resilient oyster seed for American growers."
-  site-url: https://oyster-broodstock.github.io
+  site-url: https://oysterseed.farm
   repo-url: https://github.com/oyster-broodstock/oyster-broodstock.github.io
   favicon: assets/favicon.png
   open-graph: true
