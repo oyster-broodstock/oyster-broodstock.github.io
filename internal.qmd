@@ -25,8 +25,8 @@ Quarterly all-investigator teleconferences, semi-annual Stakeholder Advisory Boa
 :::
 
 ::: {.resource-card}
-### Slack
-Day-to-day coordination across the project teams. <!-- TODO: replace with the Slack workspace invite or URL -->
+### [Slack](https://oyster-cap.slack.com/)
+Day-to-day coordination across the project teams in the `oyster-cap` workspace.
 :::
 
 :::
