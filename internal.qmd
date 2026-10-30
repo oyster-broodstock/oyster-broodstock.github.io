@@ -1,0 +1,62 @@
+---
+title: "Internal"
+subtitle: "Working resources for project personnel"
+---
+
+This page collects the shared working resources for investigators, staff, and trainees on the project. Most links require that you already have access; contact the [project director](contact.qmd) if you need to be added.
+
+## Shared resources
+
+::: {.resource-grid}
+
+::: {.resource-card}
+### [GitHub organization](https://github.com/oyster-broodstock)
+Code, analysis repositories, data schemas, and the source for this site. Repositories are public by default; ask to be added to the organization so you can push.
+:::
+
+::: {.resource-card}
+### [Google Drive](https://drive.google.com/drive/folders/1O_YQRvay1TY9AHXgQPHQuV3bQebozSIh?usp=share_link)
+Shared project folder: documents, meeting notes, reporting materials, and protocol drafts.
+:::
+
+::: {.resource-card}
+### [Project calendar](https://calendar.google.com/calendar/u/0/embed?src=c_2d268a87297268b5d53e0f2a0184f50f09aada89d9248789d612eeaaa0ef2846@group.calendar.google.com&ctz=America/Los_Angeles)
+Quarterly all-investigator teleconferences, semi-annual Stakeholder Advisory Board meetings, workshops, and the annual in-person meeting.
+:::
+
+::: {.resource-card}
+### [Slack](https://oyster-cap.slack.com/)
+Day-to-day coordination across the project teams in the `oyster-cap` workspace.
+:::
+
+:::
+
+## Calendar
+
+The calendar below is shared with project personnel only. If you see a Google sign-in prompt, sign in with the account that was granted access, or open it [in Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_2d268a87297268b5d53e0f2a0184f50f09aada89d9248789d612eeaaa0ef2846@group.calendar.google.com&ctz=America/Los_Angeles).
+
+```{=html}
+<div class="calendar-embed">
+<iframe
+  src="https://calendar.google.com/calendar/embed?src=c_2d268a87297268b5d53e0f2a0184f50f09aada89d9248789d612eeaaa0ef2846%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles"
+  title="U.S. Oyster Broodstock Systems project calendar"
+  style="border:0"
+  width="100%"
+  height="600"
+  frameborder="0"
+  scrolling="no"></iframe>
+</div>
+```
+
+## Standing meetings
+
+| Cadence | Meeting |
+|---|---|
+| Quarterly | All-investigator teleconference |
+| Semi-annual | Stakeholder Advisory Board |
+| Annual | In-person meeting at a rotating partner site |
+| Annual | NIFA progress report due |
+
+## Acknowledgment language
+
+Use the [standard acknowledgment](contact.qmd#acknowledgment) on all publications, presentations, and products from this award.
